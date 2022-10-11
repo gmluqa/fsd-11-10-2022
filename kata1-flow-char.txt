@@ -1,0 +1,19 @@
+>number-input.toFloat
+
+>plus-button
+>minus-button
+
+on click, 
+    if text input == ''{
+        append opperator
+    }
+    else {
+        append number-input + opperator
+    }
+
+
+
+>multiply-button
+>division-button
+>elevate-button
+>sqrt-button
